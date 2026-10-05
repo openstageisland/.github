@@ -160,7 +160,10 @@ see are the numbers the tooling is currently reporting.
 | Repo | What it holds |
 | --- | ------------- |
 | [`openstageisland.github.io`](https://github.com/openstageisland/openstageisland.github.io) | The live site, live-data pages and venue documentation |
-| [`linuxinstance`](https://github.com/openstageisland/linuxinstance) | The Linux instance configuration behind the island |
+| [`.github`](https://github.com/openstageisland/.github) | This profile — org landing page, community health files |
+
+<sub>Host configuration and infrastructure are kept private. The public surface is
+the stage, the site and this profile.</sub>
 
 > The older `neohiro/openstageisland.github.io` copy is archived — everything now lives
 > under the [`openstageisland`](https://github.com/openstageisland) organization.
