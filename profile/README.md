@@ -204,7 +204,7 @@ like knowing it will still be open next year:
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-EA4AAA?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/neohiro)&nbsp;&nbsp;
 [![Patreon](https://img.shields.io/badge/Patreon-frenzypenguin__media-F96854?logo=patreon&style=for-the-badge)](https://www.patreon.com/frenzypenguin_media)&nbsp;&nbsp;
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fopenstageisland%2Fopenstageisland.github.io&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com%2Fopenstageisland%2Fopenstageisland.github.io)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com%2Fopenstageisland&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com%2Fopenstageisland)
 
 ---
 
